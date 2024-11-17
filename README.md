@@ -16,7 +16,7 @@ Sou **Desenvolvedora Front-End** e **UX Design**, com experiência sólida em **
 
 ### 🛠 Tecnologias que eu uso
 
-Aqui estão algumas das tecnologias que mais utilizo no meu trabalho:
+Aqui estão algumas das tecnologias que mais utilizo:
 
 <div style="display: inline-block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,10 +46,10 @@ Minha experiência em **suporte de TI** me deu uma visão única sobre como as t
 
 Esses são alguns dos projetos que desenvolvi até o momento:
 
-- **[Projeto X](link-do-repositorio)**: Uma aplicação simples com **HTML**, **CSS**, e **JavaScript**, focada em funcionalidades interativas.
-- **[Projeto Y](link-do-repositorio)**: Um site responsivo com **HTML** e **CSS**, que adapta-se a diferentes dispositivos.
-- **[Projeto Z](link-do-repositorio)**: Desenvolvimento de uma interface clean e intuitiva utilizando **Figma** e **CSS3**.
+- **[Projeto ](link-do-repositorio)**: Uma aplicação simples com **HTML**, **CSS**, e **JavaScript**, focada em funcionalidades interativas.
+- **[Projeto ](link-do-repositorio)**: Um site responsivo com **HTML** e **CSS**, que adapta-se a diferentes dispositivos.
+- **[Projeto ](link-do-repositorio)**: Desenvolvimento de uma interface clean e intuitiva utilizando **Figma** e **CSS3**.
 
 ### 💬 Vamos conversar!
 
-Se você está interessado em projetos, troca de experiências ou qualquer outro tipo de colaboração em **desenvolvimento front-end** ou **UX/UI**, **[me envie uma mensagem](mailto:gisele.ferreira@email.com)** ou **[adicione-me no LinkedIn](https://www.linkedin.com/in/gisele-ferreira-69035625a/)**.
+Se você está interessado em projetos, troca de experiências ou qualquer outro tipo de colaboração em **desenvolvimento front-end** ou **UX/UI**, **[me envie uma mensagem](mailto:giseleferreiragi3@gmail.com)** ou **[adicione-me no LinkedIn](https://www.linkedin.com/in/gisele-ferreira-69035625a/)**.
