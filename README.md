@@ -49,9 +49,9 @@ Minha experiência em **suporte de TI** me deu uma visão única sobre como as t
 
 Esses são alguns dos projetos que desenvolvi até o momento:
 
-- **[Projeto ]([link-do-repositorio](https://github.com/GiseleFerreiras/Detona-Ralph-Jogo-em-JavaScript.git))**: Um jogo simples com **HTML**, **CSS**, e **JavaScript**, focado em funcionalidades interativas.
+- **[Projeto ](https://github.com/GiseleFerreiras/Detona-Ralph-Jogo-em-JavaScript.git)**: Um jogo simples com **HTML**, **CSS**, e **JavaScript**, focado em funcionalidades interativas.
 - **[Projeto ](link-do-repositorio)**: Um site responsivo com **HTML** e **CSS**, que adapta-se a diferentes dispositivos.
-- **[Projeto ]([link-do-repositorio]([ona-Ralph-Jogo-em-JavaScript.git](https://github.com/GiseleFerreiras/Desafio-landing-page)))**: Desenvolvimento de uma interface utilizando **Figma** **HTML** e **CSS3**.
+- **[Projeto ](https://github.com/GiseleFerreiras/Desafio-landing-page)**: Desenvolvimento de uma interface utilizando **Figma** **HTML** e **CSS3**.
 
 ### 💬 Vamos conversar!
 
