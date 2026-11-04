@@ -7,7 +7,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gisele.ferreiragi3@email.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/giseleferreiras)
 
-[![Gisele Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=giseleferreiras)](https://github.com/giseleferreiras/github-readme-stats)
+![Gisele Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=giseleferreiras&show_icons=true&theme=tokyonight)
 
 ### 🚀 Sobre mim
 
